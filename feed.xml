@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-10-17T12:25:14+00:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Lesson 1 - October 14 - Conditionals and Loops</title><link href="/group-a/2021/10/14/lesson-1.html" rel="alternate" type="text/html" title="Lesson 1 - October 14 - Conditionals and Loops" /><published>2021-10-14T00:00:00+00:00</published><updated>2021-10-14T00:00:00+00:00</updated><id>/group-a/2021/10/14/lesson-1</id><content type="html" xml:base="/group-a/2021/10/14/lesson-1.html">&lt;h1 id=&quot;lesson-1---october-14---conditionals-and-loops&quot;&gt;Lesson 1 - October 14 - Conditionals and Loops&lt;/h1&gt;
+
+&lt;p&gt;Welcome to the first lesson of Woodlands Computer Science!&lt;/p&gt;
+
+&lt;p&gt;We’ll be teaching you loops and conditionals.&lt;/p&gt;
+
+&lt;p&gt;Try running the below code!&lt;/p&gt;
+
+&lt;h2 id=&quot;conditionals&quot;&gt;Conditionals&lt;/h2&gt;
+
+&lt;p&gt;An if is a conditional.&lt;/p&gt;
+
+&lt;h2 id=&quot;loops&quot;&gt;Loops&lt;/h2&gt;
+
+&lt;p&gt;A for loop is a loop.&lt;/p&gt;
+
+&lt;div is=&quot;code-editor&quot; id=&quot;editor-1&quot;&gt;
+for i in range(5):
+    print(i)
+#####
+a
+a
+&lt;/div&gt;
+
+&lt;div is=&quot;code-editor&quot; id=&quot;editor-2&quot;&gt;
+for i in range(5):
+    print(i)
+&lt;/div&gt;</content><author><name></name></author><category term="group-a" /><summary type="html">Lesson 1 - October 14 - Conditionals and Loops</summary></entry></feed>
